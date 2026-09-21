@@ -13,7 +13,7 @@
 
   <groupId>com.mds</groupId>
   <artifactId>spring-security-pattern</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1.6-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>spring-security-pattern</name>
   <description>Parent platform for MDS (Martins Desenvolvimento de Sistemas), responsible for centralizing dependency management, version control, build standards, plugins, and shared configurations across the ecosystem.</description>
